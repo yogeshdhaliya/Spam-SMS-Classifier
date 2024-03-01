@@ -10,8 +10,6 @@ Spam SMS Detection is a machine learning-based project aimed at enhancing cybers
   
 - **Data Preprocessing:** Conducted thorough data preprocessing, including text cleaning, tokenization, and feature engineering, to enhance the model's robustness.
   
-- **NLP Integration:** Utilized Natural Language Processing (NLP) techniques to extract meaningful features from text, improving the model's understanding of contextual cues in spam messages.
-
 - **Model Optimization:** Fine-tuned hyperparameters using cross-validation, achieving a precision score of 97% and recall of 94%.
 
 ## Technologies Used
