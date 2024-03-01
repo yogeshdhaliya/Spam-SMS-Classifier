@@ -6,11 +6,11 @@ Spam SMS Detection is a machine learning-based project aimed at enhancing cybers
 
 ## Key Features
 
-- **High Accuracy:** Implemented a machine learning model with a 98% accuracy rate for spam detection, reducing false positives and improving overall performance.
+- **High Accuracy:** Implemented a machine learning model with a 97% accuracy rate for spam detection, reducing false positives and improving overall performance.
   
 - **Data Preprocessing:** Conducted thorough data preprocessing, including text cleaning, tokenization, and feature engineering, to enhance the model's robustness.
   
-- **Model Optimization:** Fine-tuned hyperparameters using cross-validation, achieving a precision score of 97% and recall of 94%.
+- **Model Optimization:** Fine-tuned hyperparameters using cross-validation, achieving a precision score of 93% and recall of 94%.
 
 ## Technologies Used
 
